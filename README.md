@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Human-Computer Interaction at the Interactive Organisms Lab, UC Davis
+- 🔭 I’m currently working on Human-Computer Interaction at the [Interactive Organisms Lab, UC Davis](http://iolab.ucdavis.edu/people.html)
 - 🌱 I’m currently learning Java, Mediapipe and Vuforia.
 - 👯 I’m looking to collaborate on hci and wearable related projects.
 - 🤔 I’m looking for help with grad school applications.
